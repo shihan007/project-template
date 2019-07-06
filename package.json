@@ -1,12 +1,12 @@
 {
-    "name": "iamjesseshow-starter-project",
+    "name": "shihanmalik-starter-project",
     "version": "1.0.0",
     "description": "Starter Project",
     "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Jesse Showalter",
+    "author": "shihan malik",
     "license": "ISC",
     "devDependencies": {
         "browser-sync": "^2.26.3",
